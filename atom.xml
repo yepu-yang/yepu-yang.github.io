@@ -3,11 +3,11 @@
   <title>yepurs</title>
   
   <subtitle>Stay cautious with what you can control, and optimistic about what you can not</subtitle>
-  <link href="https://yepu-yang.github.io/atom.xml" rel="self"/>
+  <link href="https://yepu-yang.github.io/yepu-yang.github.io/atom.xml" rel="self"/>
   
-  <link href="https://yepu-yang.github.io/"/>
+  <link href="https://yepu-yang.github.io/yepu-yang.github.io/"/>
   <updated>2024-10-07T09:29:56.111Z</updated>
-  <id>https://yepu-yang.github.io/</id>
+  <id>https://yepu-yang.github.io/yepu-yang.github.io/</id>
   
   <author>
     <name>yepu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>初学FPGA 方波的双边沿检测</title>
-    <link href="https://yepu-yang.github.io/2024/10/07/%E5%88%9D%E5%AD%A6FPGA-%E6%96%B9%E6%B3%A2%E7%9A%84%E5%8F%8C%E8%BE%B9%E6%B2%BF%E6%A3%80%E6%B5%8B/"/>
-    <id>https://yepu-yang.github.io/2024/10/07/%E5%88%9D%E5%AD%A6FPGA-%E6%96%B9%E6%B3%A2%E7%9A%84%E5%8F%8C%E8%BE%B9%E6%B2%BF%E6%A3%80%E6%B5%8B/</id>
+    <link href="https://yepu-yang.github.io/yepu-yang.github.io/2024/10/07/%E5%88%9D%E5%AD%A6FPGA-%E6%96%B9%E6%B3%A2%E7%9A%84%E5%8F%8C%E8%BE%B9%E6%B2%BF%E6%A3%80%E6%B5%8B/"/>
+    <id>https://yepu-yang.github.io/yepu-yang.github.io/2024/10/07/%E5%88%9D%E5%AD%A6FPGA-%E6%96%B9%E6%B3%A2%E7%9A%84%E5%8F%8C%E8%BE%B9%E6%B2%BF%E6%A3%80%E6%B5%8B/</id>
     <published>2024-10-07T09:19:40.000Z</published>
     <updated>2024-10-07T09:29:56.111Z</updated>
     
@@ -38,14 +38,14 @@
     
     
     
-    <category term="FPGA" scheme="https://yepu-yang.github.io/tags/FPGA/"/>
+    <category term="FPGA" scheme="https://yepu-yang.github.io/yepu-yang.github.io/tags/FPGA/"/>
     
   </entry>
   
   <entry>
     <title>使用hexo和keep主题快速搭建blog</title>
-    <link href="https://yepu-yang.github.io/2024/10/06/%E4%BD%BF%E7%94%A8hexo%E5%92%8Ckeep%E4%B8%BB%E9%A2%98%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAblog/"/>
-    <id>https://yepu-yang.github.io/2024/10/06/%E4%BD%BF%E7%94%A8hexo%E5%92%8Ckeep%E4%B8%BB%E9%A2%98%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAblog/</id>
+    <link href="https://yepu-yang.github.io/yepu-yang.github.io/2024/10/06/%E4%BD%BF%E7%94%A8hexo%E5%92%8Ckeep%E4%B8%BB%E9%A2%98%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAblog/"/>
+    <id>https://yepu-yang.github.io/yepu-yang.github.io/2024/10/06/%E4%BD%BF%E7%94%A8hexo%E5%92%8Ckeep%E4%B8%BB%E9%A2%98%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAblog/</id>
     <published>2024-10-06T12:54:36.000Z</published>
     <updated>2024-10-06T14:01:50.973Z</updated>
     
@@ -56,10 +56,10 @@
     
     
     
-    <category term="blog use" scheme="https://yepu-yang.github.io/categories/blog-use/"/>
+    <category term="blog use" scheme="https://yepu-yang.github.io/yepu-yang.github.io/categories/blog-use/"/>
     
     
-    <category term="create blog" scheme="https://yepu-yang.github.io/tags/create-blog/"/>
+    <category term="create blog" scheme="https://yepu-yang.github.io/yepu-yang.github.io/tags/create-blog/"/>
     
   </entry>
   
